@@ -47,7 +47,10 @@ GEM
     archive-zip (0.12.0)
       io-like (~> 0.3.0)
     arel (9.0.0)
+<<<<<<< HEAD
     bcrypt (3.1.16)
+=======
+>>>>>>> 13f0ce09e0ea10c869d29ac616dd50a9848ff497
     bindex (0.8.1)
     bootsnap (1.8.1)
       msgpack (~> 1.0)
@@ -189,7 +192,10 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
+<<<<<<< HEAD
   bcrypt
+=======
+>>>>>>> 13f0ce09e0ea10c869d29ac616dd50a9848ff497
   bootsnap (>= 1.1.0)
   byebug
   capybara (>= 2.15)
@@ -213,4 +219,8 @@ RUBY VERSION
    ruby 2.6.5p114
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.2.11
+=======
+   2.2.24
+>>>>>>> 13f0ce09e0ea10c869d29ac616dd50a9848ff497
